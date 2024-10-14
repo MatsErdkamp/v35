@@ -18,14 +18,14 @@ export default create({
   colorSecondary: "#585C6D",
 
   // UI
-  appBg: "#ffffff",
+  appBg: "#EFF0F6",
   appContentBg: "#ffffff",
   appPreviewBg: "#ffffff",
-  appBorderColor: "#585C6D",
-  appBorderRadius: 4,
+  appBorderColor: "#cecece",
+  appBorderRadius: 12,
 
   // Text colors
-  textColor: "#10162F",
+  textColor: "#000000",
   textInverseColor: "#ffffff",
 
   // Toolbar default and active colors
